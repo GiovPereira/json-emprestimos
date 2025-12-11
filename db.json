@@ -216,39 +216,5 @@
       "valorDia": 2,
       "dataHoraAlteracao": "2025-01-10T10:20:45"
     }
-  ],
-  "teste": [
-    {
-      "id": 1,
-      "valorDia": 4,
-      "dataHoraAlteracao": "2024-12-31T17:01:10"
-    },
-    {
-      "id": 2,
-      "valorDia": 6.50,
-      "dataHoraAlteracao": "2025-01-09T07:22:01"
-    },
-    {
-      "id": 3,
-      "valorDia": 2,
-      "dataHoraAlteracao": "2025-01-10T10:20:45"
-    }
-  ],
-  "teste2": [
-    {
-      "id": 1,
-      "valorDia": 4,
-      "dataHoraAlteracao": "2024-12-31T17:01:10"
-    },
-    {
-      "id": 2,
-      "valorDia": 6.50,
-      "dataHoraAlteracao": "2025-01-09T07:22:01"
-    },
-    {
-      "id": 3,
-      "valorDia": 2,
-      "dataHoraAlteracao": "2025-01-10T10:20:45"
-    }
   ]
 }
