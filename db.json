@@ -1,5 +1,5 @@
 {
-    "emprestimo": [
+    "emprestimos": [
     {
         "id": 1,
         "idCliente": 1,
@@ -183,7 +183,7 @@
         "dataEntrega": null
     }
   ],
-  "duracaoEmprestimo": [
+  "duracaoEmprestimos": [
     {
       "id": 1,
       "diasUteis": 60,
@@ -200,7 +200,7 @@
       "dataHoraAlteracao": "2025-01-09T10:23:23"
     }
   ],
-  "valoMulta": [
+  "valoMultas": [
     {
       "id": 1,
       "valorDia": 4,
