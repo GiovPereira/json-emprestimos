@@ -209,7 +209,7 @@
         "dataEntrega": null
     }
   ],
-  "Reservas":[
+  "reservas":[
     {
         "id": 1,
         "idCliente": 4,
