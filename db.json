@@ -4,6 +4,7 @@
         "id": 1,
         "idCliente": 1,
         "idExemplar": 9,
+        "idDuracaoPadraoEmprestimo": 1,
         "dataEmprestimo": "2024-12-01",
         "dataEntrega": "2024-12-30"
     },
@@ -11,6 +12,7 @@
         "id": 2,
         "idCliente": 2,
         "idExemplar": 11,
+        "idDuracaoPadraoEmprestimo": 1,
         "dataEmprestimo": "2024-12-09",
         "dataEntrega": "2024-12-29"
     },
@@ -18,6 +20,7 @@
         "id": 3,
         "idCliente": 2,
         "idExemplar": 16,
+        "idDuracaoPadraoEmprestimo": 1,
         "dataEmprestimo": "2024-12-10",
         "dataEntrega": "2025-01-09"
     },
@@ -25,6 +28,7 @@
         "id": 4,
         "idCliente": 5,
         "idExemplar": 21,
+        "idDuracaoPadraoEmprestimo": 1,
         "dataEmprestimo": "2024-12-10",
         "dataEntrega": "2024-12-11"
     },
@@ -32,6 +36,7 @@
         "id": 5,
         "idCliente": 5,
         "idExemplar": 27,
+        "idDuracaoPadraoEmprestimo": 1,
         "dataEmprestimo": "2024-12-10",
         "dataEntrega": "2024-12-30"
     },
@@ -39,6 +44,7 @@
         "id": 6,
         "idCliente": 5,
         "idExemplar": 29,
+        "idDuracaoPadraoEmprestimo": 1,
         "dataEmprestimo": "2024-12-10",
         "dataEntrega": "2024-12-19"
     },
@@ -46,6 +52,7 @@
         "id": 7,
         "idCliente": 5,
         "idExemplar": 6,
+        "idDuracaoPadraoEmprestimo": 1,
         "dataEmprestimo": "2024-12-16",
         "dataEntrega": "2024-12-16"
     },
@@ -53,6 +60,7 @@
         "id": 8,
         "idCliente": 2,
         "idExemplar": 15,
+        "idDuracaoPadraoEmprestimo": 3,
         "dataEmprestimo": "2025-01-27",
         "dataEntrega": null
     },
@@ -60,13 +68,15 @@
         "id": 9,
         "idCliente": 3,
         "idExemplar": 27,
+        "idDuracaoPadraoEmprestimo": 3,
         "dataEmprestimo": "2025-01-28",
-        "dad": "2025-02-28"
+        "dataEntrega": "2025-02-27"
     },
     {
         "id": 10,
         "idCliente": 4,
         "idExemplar": 3,
+        "idDuracaoPadraoEmprestimo": 3,
         "dataEmprestimo": "2025-01-29",
         "dataEntrega": "2025-02-20"
     },
@@ -74,13 +84,15 @@
         "id": 11,
         "idCliente": 6,
         "idExemplar": 6,
+        "idDuracaoPadraoEmprestimo": 3,
         "dataEmprestimo": "2025-01-30",
-        "dataEntrega": "2025-02-30"
+        "dataEntrega": "2025-02-29"
     },
     {
         "id": 12,
         "idCliente": 1,
         "idExemplar": 9,
+        "idDuracaoPadraoEmprestimo": 3,
         "dataEmprestimo": "2025-02-10",
         "dataEntrega": "2025-02-10"
     },
@@ -88,6 +100,7 @@
         "id": 13,
         "idCliente": 1,
         "idExemplar": 4,
+        "idDuracaoPadraoEmprestimo": 3,
         "dataEmprestimo": "2025-02-10",
         "dataEntrega": "2025-03-03"
     },
@@ -95,6 +108,7 @@
         "id": 14,
         "idCliente": 6,
         "idExemplar": 9,
+        "idDuracaoPadraoEmprestimo": 3,
         "dataEmprestimo": "2025-02-10",
         "dataEntrega": "2025-04-30"
     },
@@ -102,6 +116,7 @@
         "id": 15,
         "idCliente": 2,
         "idExemplar": 5,
+        "idDuracaoPadraoEmprestimo": 3,
         "dataEmprestimo": "2025-02-15",
         "dataEntrega": "2025-02-30"
     },
@@ -109,6 +124,7 @@
         "id": 16,
         "idCliente": 1,
         "idExemplar": 11,
+        "idDuracaoPadraoEmprestimo": 3,
         "dataEmprestimo": "2025-02-26",
         "dataEntrega": "2025-02-30"
     },
@@ -116,6 +132,7 @@
         "id": 17,
         "idCliente": 5,
         "idExemplar": 4,
+        "idDuracaoPadraoEmprestimo": 3,
         "dataEmprestimo": "2025-03-10",
         "dataEntrega": "2025-03-20"
     },
@@ -123,20 +140,23 @@
         "id": 18,
         "idCliente": 4,
         "idExemplar": 12,
+        "idDuracaoPadraoEmprestimo": 3,
         "dataEmprestimo": "2025-03-19",
-        "dataEntrega": "2025-04-19"
+        "dataEntrega": "2025-04-18"
     },
     {
         "id": 19,
         "idCliente": 3,
         "idExemplar": 2,
+        "idDuracaoPadraoEmprestimo": 3,
         "dataEmprestimo": "2025-04-20",
-        "dataEntrega": "2025-01-30"
+        "dataEntrega": "2025-05-30"
     },
     {
         "id": 20,
         "idCliente": 4,
         "idExemplar": 4,
+        "idDuracaoPadraoEmprestimo": 3,
         "dataEmprestimo": "2025-04-31",
         "dataEntrega": "2025-05-01"
     },
@@ -144,6 +164,7 @@
         "id": 21,
         "idCliente": 3,
         "idExemplar": 17,
+        "idDuracaoPadraoEmprestimo": 3,
         "dataEmprestimo": "2025-04-31",
         "dataEntrega": "2025-05-01"
     },
@@ -151,20 +172,23 @@
         "id": 22,
         "idCliente": 3,
         "idExemplar": 11,
-        "dataEmprestimo": "2025-11-26",
+        "idDuracaoPadraoEmprestimo": 3,
+        "dataEmprestimo": "2025-11-12",
         "dataEntrega": null
     },
     {
         "id": 23,
         "idCliente": 3,
         "idExemplar": 26,
+        "idDuracaoPadraoEmprestimo": 3,
         "dataEmprestimo": "2025-11-26",
         "dataEntrega": null
     },
     {
         "id": 24,
-        "idCliente": 3,
+        "idCliente": 4,
         "idExemplar": 22,    
+        "idDuracaoPadraoEmprestimo": 3,
         "dataEmprestimo": "2025-11-28",
         "dataEntrega": null
     },
@@ -172,18 +196,46 @@
         "id": 25,
         "idCliente": 4,
         "idExemplar": 18,
+        "idDuracaoPadraoEmprestimo": 3,
         "dataEmprestimo": "2025-11-29",
         "dataEntrega": null
     },
     {
         "id": 26,
-        "idCliente": 4,
-        "idExemplar": 5,
+        "idCliente": 3,
+        "idExemplar": 29,
+        "idDuracaoPadraoEmprestimo": 3,
         "dataEmprestimo": "2025-11-30",
         "dataEntrega": null
     }
   ],
-  "duracaoEmprestimos": [
+  "Reservas":[
+    {
+        "id": 1,
+        "idCliente": 4,
+        "idObra": 12,
+        "dataReserva": "2024-12-15",
+        "posicaoFila": 1,
+        "idStatus": 2
+    },
+    {
+        "id": 1,
+        "idCliente": 4,
+        "idObra": 12,
+        "dataReserva": "2025-11-31",
+        "posicaoFila": 1,
+        "idStatus": 1
+    },
+    {
+        "id": 1,
+        "idCliente": 1,
+        "idObra": 12,
+        "dataReserva": "2025-12-07",
+        "posicaoFila": 2,
+        "idStatus": 1
+    }
+  ],
+  "duracaoPadraoEmprestimos": [
     {
       "id": 1,
       "diasUteis": 60,
@@ -200,15 +252,15 @@
       "dataHoraAlteracao": "2025-01-09T10:23:23"
     }
   ],
-  "valoMultas": [
+  "valorDiarioMultas": [
     {
       "id": 1,
       "valorDia": 4,
-      "dataHoraAlteracao": "2024-12-31T17:01:10"
+      "dataHoraAlteracao": "2024-11-30T17:01:10"
     },
     {
       "id": 2,
-      "valorDia": 6.50,
+      "valorDia": 2.50,
       "dataHoraAlteracao": "2025-01-09T07:22:01"
     },
     {
